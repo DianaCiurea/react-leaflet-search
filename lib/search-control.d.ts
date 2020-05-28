@@ -2,7 +2,7 @@ import React from "react";
 import { BingMap, OpenStreetMap } from "./Providers";
 import PropTypes from "prop-types";
 import { Map as LeafletMap, LatLng } from "leaflet";
-import "../css/index.css";
+// import "../css/index.css";
 export interface SearchControlProps {
     provider?: string;
     customProvider?: {
