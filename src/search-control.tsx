@@ -3,7 +3,7 @@ import Providers from "./Providers";
 import { BingMap, OpenStreetMap } from "./Providers";
 import PropTypes from "prop-types";
 import { Map as LeafletMap, LatLng } from "leaflet";
-import "../css/index.css";
+// import "../css/index.css";
 import { SearchInput } from "./core/search-input";
 import { SearchCloseButton } from "./core/search-close-button";
 import { SearchIconButton } from "./core/search-icon-button";
